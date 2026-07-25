@@ -30,13 +30,6 @@
 
 
 ---
-## :bar_chart: GitHub Stats
-
-![Nitin's GitHub stats](https://github-readme-stats.vercel.app/api?username=vandanapatel07&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vandanapatel07&layout=compact&theme=radical)
-
----
-
 
 
 ##  GitHub Contribution Streak
