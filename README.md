@@ -1,5 +1,5 @@
 
-![Profile Views](https://komarev.com/ghpvc/?username=Singhshashi18&color=FF7A8A&style=for-the-badge&label=🔥+Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=vandanapatel07&color=FF7A8A&style=for-the-badge&label=🔥+Profile+Views)
 
 
   
@@ -32,8 +32,8 @@
 ---
 ## :bar_chart: GitHub Stats
 
-![Nitin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Singhshashi18&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Singhshashi18&layout=compact&theme=radical)
+![Nitin's GitHub stats](https://github-readme-stats.vercel.app/api?username=vandanapatel07&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vandanapatel07&layout=compact&theme=radical)
 
 ---
 
@@ -42,7 +42,7 @@
 ##  GitHub Contribution Streak
 
 <!-- Use Vercel-hosted streak card for better reliability -->
-![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=Singhshashi18&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=vandanapatel07&theme=radical)
 
 
 
@@ -60,7 +60,7 @@
   <a href="https://discord.com/channels/@me" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
-  <a href="mailto:singhshashi09871@gmail.com" target="_blank">
+  <a href="mailto:@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
