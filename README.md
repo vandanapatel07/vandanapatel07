@@ -11,7 +11,7 @@
 
 ![Typing   GIF](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&width=500&lines=Building+cool+projects...;Learning+Next.js,+Express.js,+TypeScript...;Exploring+Generative+AI...)
 
- 
+  
 --
 
 <div >
