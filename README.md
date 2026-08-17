@@ -5,7 +5,7 @@
   
     
  
-# Hey there! :wave: I'm Vandana 
+# Hey there! :wave: I'm Vandana  
 
 **Full-Stack Developer | MERN Stack | Next.js & TypeScript Enthusiast | Generative AI Explorer**
 
