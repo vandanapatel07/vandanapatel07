@@ -2,7 +2,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=vandanapatel07&color=FF7A8A&style=for-the-badge&label=🔥+Profile+Views)
 
 
-  
+   
      
  
 # Hey there! :wave: I'm Vandana  
